@@ -33,4 +33,7 @@ public class UserService {
     }
 
 
+    public void deleteAllUsers() {
+
+    }
 }
